@@ -1,0 +1,19 @@
+{
+  "name": "mahesh-baby",
+  "version": "1.0.0",
+  "description": "project k\r long side road",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshposhala/mahesh-baby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maheshposhala/mahesh-baby/issues"
+  },
+  "homepage": "https://github.com/Maheshposhala/mahesh-baby#readme"
+}
